@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+    <title>TABLA Y LISTA</title>
+<head/>
+<body>
+    <table border=1>
+        <tr>
+            <th>TEMAS</th>
+            <th>EJEMPLOS</th>
+        </tr>
+        <tr>
+            <td>General</td>
+            <td>
+                <ol>
+                    <li><a href="https://www.elmundo.es" target="_blank">El Mundo </a></li>
+                    <li><a href="https://www.elpais.es" target="_blank">El Pais </a></li>
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <td>Deportivo</td>
+            <td>
+                <ol>
+                    <li><a href="https://www.mundodeportivo.com" target="_blank">Mundo deportivo</a></li>
+                    <li><a href="https://as.com" target="_blank">As</a></li>
+                </ol>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
